@@ -1,11 +1,11 @@
-# Hi there! Welcome to my GitHub Profile! 👋
+# Data Science Portfolio - Silent Muzinde!
 
-I am Silent Muzinde, and I’m passionate about data science, AI, and machine learning systems. Currently, I am working as a Data Analyst.
+I am Silent Muzinde, and I’m passionate about data science, AI, machine learning systems and emerging technologies. Currently, I am working as a Data Analyst.
 
 Check out my [Portfolio](link-to-your-portfolio) for all of my projects, skills, and achievements.
 
 ## Pinned Projects
-### Loan Eligibility Prediction Model
+### 1. Loan Eligibility Prediction Model
 This project predicts whether a loan applicant is eligible for a loan using a logistic regression model. It features a user-friendly web interface built with Streamlit.
 - **Technologies**: Python, Streamlit, Scikit-learn, Pandas
 - **Repository**: [Loan Eligibility Model](https://github.com//silentmuzinde/Data-Science-Portfolio/tree/main/ML_Projects/Loan_Eligibility_Model)
