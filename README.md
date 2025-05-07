@@ -4,6 +4,8 @@ I am Silent Muzinde, and I’m passionate about data science, AI, machine learni
 
 Check out my [Portfolio](https://github.com/silentmuzinde/Data-Science-Portfolio) for all of my projects, skills, and achievements.
 
+![Portfolio Overview](assets/loan_img.jpg)
+
 ## Pinned Projects
 
 ### 1. Loan Eligibility Prediction Model
