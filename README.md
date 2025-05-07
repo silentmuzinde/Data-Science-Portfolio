@@ -37,4 +37,18 @@ Created an Excel-based reporting tool for analyzing fleet usage, trip frequency,
 - **💻 Languages**: Python (Pandas, NumPy, Scikit-Learn, SciPy, Matplotlib), SQL
 - **🧰 Tools**: Power BI, Tableau, MySQL, Git, Ms Azure Flask, MS Excel(Advanced), Prompt Engineering,  Large Language Models (LLMs) & LLM Integration, Langchain
 - **🔧 Programming and Others**: Java, Flutter, NodeJs, WebEngage, Power Platform (Power Apps, Power Automate), SharePoint, Microsoft 365, Dynamics 365, Model-Driven Apps, Oracle ERP, SIEM, IT Systems Administration, USSD Integration
+---
+## Training & Certifications
 
+- **[Microsoft Certified AI Engineer Associate](link_to_certificate)** - Microsoft
+- **[Microsoft Certified Azure Fundamentals](link_to_certificate)** - Microsoft
+- **[Microsoft Certified Power BI Associate](link_to_certificate)** - Data Camp
+- **[Microsoft Identity & Access Administrator](link_to_certificate)** - Microsoft
+- **[Huawei Certified Datacom](link_to_certificate)** - Huawei
+- **[Introduction to Cybersecurity](link_to_certificate)** - CISCO
+- **[IT Support Professional Certificate](link_to_certificate)**-  Coursera
+     - Technical Support Fundamentals
+     - The Bits and Bytes of Computer Networking
+     - Operating Systems and You: Becoming a Power User
+     - System Administration and IT Infrastructure Services
+     - IT Security: Defense Against the Digital Dark Arts
