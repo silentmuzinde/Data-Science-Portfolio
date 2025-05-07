@@ -7,10 +7,18 @@ Check out my [Portfolio](https://github.com/silentmuzinde/Data-Science-Portfolio
 ## Pinned Projects
 
 ### 1. Loan Eligibility Prediction Model
-![Loan Eligibility Model](assets/assets/loan_img.jpg) <!-- Add an image for the project if available -->
+![Loan Eligibility Model](assets/loan_eligibility_model.png) <!-- Add the correct path to the project image -->
 This project predicts whether a loan applicant is eligible for a loan using a logistic regression model. It features a user-friendly web interface built with Streamlit.
 - **Technologies**: Python, Streamlit, Scikit-learn, Pandas
 - **Repository**: [Loan Eligibility Model](https://github.com/silentmuzinde/Data-Science-Portfolio/tree/main/ML_Projects/Loan_Eligibility_Model)
+
+### 2. Customer Survival Analysis and Churn Prediction
+![Customer Survival Analysis](assets/customer_survival_analysis.png) <!-- Add the correct path to the project image -->
+In this project, I used survival analysis to study how the likelihood of customer churn changes over time. I implemented a Random Forest model to predict customer churn and deployed the model using Flask on Heroku.
+
+### 3. Instacart Market Basket Analysis
+![Instacart Market Basket Analysis](assets/instacart_analysis.png) <!-- Add the correct path to the project image -->
+The objective of this project is to analyze the 3 million grocery orders from over 200,000 Instacart users and predict which previously purchased item will be in the user's next order. Customer segmentation and affinity analysis are also performed to study user purchase patterns.
 
 ## Professional Experience
 
