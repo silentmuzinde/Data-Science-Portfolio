@@ -1,8 +1,13 @@
-# Data Science Portfolio - Silent Muzinde!
+# Data Science Portfolio - [Silent Muzinde](https://github.com/silentmuzinde/Data-Science-Portfolio)!
 
 I am Silent Muzinde, and I’m passionate about data science, AI, machine learning systems, and emerging technologies. Currently, I am working as a Data Analyst.
 
-Check out my [Portfolio](https://github.com/silentmuzinde/Data-Science-Portfolio) for all of my projects, skills, and achievements.
+This portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, work (only project descriptions) and hobby purposes. This portfolio also contains my achievements, skills, and certificates. It is updated on a regular basis.
+
+**Email**: [archdesai.ad@gmail.com](mailto:archdesai.ad@gmail.com)  
+**LinkedIn**: [linkedin.com/archd3sai](https://linkedin.com/archd3sai)
+
+---
 
 ## 🚀 Pinned Projects
 <table> 
