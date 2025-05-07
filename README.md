@@ -6,19 +6,11 @@ Check out my [Portfolio](https://github.com/silentmuzinde/Data-Science-Portfolio
 
 ## Pinned Projects
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <div style="flex: 0 0 25%;">
-    <img src="assets/loan_img.jpg" style="width: 100%;">
-  </div>
-  <div>
-    <a href="https://github.com/silentmuzinde/Data-Science-Portfolio/tree/main/ML_Projects/Loan_Eligibility_Model">
-      <strong>Loan Eligibility Prediction Model</strong>
-    </a><br>
-    This project predicts whether a loan applicant is eligible for a loan using a logistic regression model.
-    It features a user-friendly web interface built with Streamlit.<br>
-    <strong>Technologies:</strong> Python, Streamlit, Scikit-learn, Pandas
-  </div>
-</div>
+  <tr> <td width="25%"> <img src="assets/loan_img.jpg" width="100%"> </td> 
+    <td> <a href="https://github.com/silentmuzinde/Data-Science-Portfolio/tree/main/ML_Projects/Loan_Eligibility_Model">
+      <strong>Loan Eligibility Prediction Model</strong></a><br> This project predicts whether a loan applicant is eligible for a loan using a logistic regression model. It features a user-friendly web interface built with Streamlit.<br> 
+      <strong>Technologies:</strong> Python, Streamlit, Scikit-learn, Pandas </td> </tr> 
+</table> <br> 
 
 ## Professional Experience
 ### Data Analyst - Projects and Operations
