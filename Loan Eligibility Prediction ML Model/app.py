@@ -3,8 +3,8 @@ import pandas as pd
 import pickle as pk
 
 # Load model and scaler
-model = pk.load(open('models/model.pkl', 'rb'))
-scaler = pk.load(open('models/scaler.pkl', 'rb'))
+model = pk.load(open('model.pkl', 'rb'))
+scaler = pk.load(open('scaler.pkl', 'rb'))
 
 # App Header
 st.header('Loan Eligibility Prediction Model')
