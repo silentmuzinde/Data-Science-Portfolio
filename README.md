@@ -15,9 +15,12 @@ Check out my [Portfolio](https://github.com/silentmuzinde/Data-Science-Portfolio
 ### **Data Analyst – Projects and Operations**
 
 **Magaya Mining Pvt Limited** | *Jul 2024 – Present*
-Led the design and deployment of interactive Power BI dashboards for Projects, Maintenance, and Stores departments, improving operational visibility and decision-making. Built and maintained a clean, validated data pipeline supporting accurate analysis and reporting. Leveraged Excel and Power BI to track logistics, fleet utilization, and project efficiency. Automated reporting processes and collaborated with cross-functional teams to integrate data-driven insights into daily operations. Played a key role in cost tracking, project budgeting, and performance reporting through data analysis and visualization tools.
+- Led the design and deployment of interactive Power BI dashboards for Projects, Maintenance, and Stores departments, improving operational visibility and decision-making. 
+- Built and maintained a clean, validated data pipeline supporting accurate analysis and reporting.
+- Leveraged Excel and Power BI to track logistics, fleet utilization, and project efficiency.
+- Automated reporting processes and collaborated with cross-functional teams to integrate data-driven insights into daily operations. Played a key role in cost tracking, project budgeting, and performance reporting through data analysis and visualization tools.
 
-**Key Tools**: Power BI, Microsoft Excel, SQL, Data Validation, Dashboard Design
+**Key Tools**: Power BI, Microsoft Excel, SQL,Tableau Data Validation, Dashboard Design
 
 ---
 
