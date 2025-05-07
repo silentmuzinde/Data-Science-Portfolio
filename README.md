@@ -31,6 +31,25 @@ Designed a maintenance performance tracker to log servicing schedules, monitor e
 Created an Excel-based reporting tool for analyzing fleet usage, trip frequency, hire costs, fuel consumption, and transport efficiency metrics.
 - **Technologies:** Microsoft Excel, Pivot Tables, Data Validation
 
+## Micro Projects
+
+### Statistics and Machine Learning
+
+- **Genetic Algorithm**:  
+  In this project, I implemented a simple genetic algorithm that finds a list of numbers which equal any specified number when summed together.
+
+- **Bayesian Statistics**:  
+  In this project, I explored how Bayesian statistics work and how prior assumptions reflect posterior probabilities using a gun control example.
+
+- **Gaussian Mixture Model and Expectation Maximization**:  
+  In this project, I implemented the Expectation Maximization algorithm to find the true distribution of a one-dimensional Gaussian Mixture Model (GMM) of two Gaussians.
+
+- **Linear Regression**:  
+  In this project, I solved linear regression using the analytical method and implemented gradient descent, stochastic gradient descent, and minibatch gradient descent algorithms.
+
+- **Neural Network Implementation**:  
+  In this project, I implemented a simple neural network using forward propagation, backward propagation, and optimization functions to predict customer churn.
+  
 ## Core Competencies
 
 - **🛠️ Methodologies**: Machine Learning, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
