@@ -1,14 +1,15 @@
 # Data Science Portfolio - Silent Muzinde!
 
-I am Silent Muzinde, and I’m passionate about data science, AI, machine learning systems and emerging technologies. Currently, I am working as a Data Analyst.
+I am Silent Muzinde, and I’m passionate about data science, AI, machine learning systems, and emerging technologies. Currently, I am working as a Data Analyst.
 
 Check out my [Portfolio](link-to-your-portfolio) for all of my projects, skills, and achievements.
 
 ## Pinned Projects
+
 ### 1. Loan Eligibility Prediction Model
 This project predicts whether a loan applicant is eligible for a loan using a logistic regression model. It features a user-friendly web interface built with Streamlit.
 - **Technologies**: Python, Streamlit, Scikit-learn, Pandas
-- **Repository**: [Loan Eligibility Model](https://github.com//silentmuzinde/Data-Science-Portfolio/tree/main/ML_Projects/Loan_Eligibility_Model)
+- **Repository**: [Loan Eligibility Model](https://github.com/silentmuzinde/Data-Science-Portfolio/tree/main/ML_Projects/Loan_Eligibility_Model)
 
 ## Professional Experience
 
@@ -17,7 +18,7 @@ This project predicts whether a loan applicant is eligible for a loan using a lo
 - Developed Power BI dashboards to enhance decision-making and operational efficiency.
 - Maintained a clean data pipeline, ensuring reliable reporting and analysis.
 - Conducted audits and applied validation techniques to reduce data discrepancies.
-  
+
 ### Artificial Intelligence and Analytics Research Assistant
 **Bindura University of Science Education** (February 2024 - June 2024)
 - Collaborated on AI strategies and evaluated cutting-edge AI tools for business use cases.
