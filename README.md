@@ -2,7 +2,7 @@
 
 I am Silent Muzinde, and I’m passionate about data science, AI, machine learning systems, and emerging technologies. Currently, I am working as a Data Analyst.
 
-Check out my [Portfolio]([link-to-your-portfolio](https://github.com/silentmuzinde/Data-Science-Portfolio)) for all of my projects, skills, and achievements.
+Check out my [Portfolio](https://github.com/silentmuzinde/Data-Science-Portfolio) for all of my projects, skills, and achievements.
 
 ## Pinned Projects
 
