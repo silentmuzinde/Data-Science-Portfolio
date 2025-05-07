@@ -5,8 +5,7 @@ I am Silent Muzinde, and I’m passionate about data science, AI, machine learni
 Check out my [Portfolio](https://github.com/silentmuzinde/Data-Science-Portfolio) for all of my projects, skills, and achievements.
 
 ## Pinned Projects
-
-  <tr> <td width="25%"> <img src="assets/loan_img.jpg" width="100%"> </td> 
+,table>  <tr> <td width="25%"> <img src="assets/loan_img.jpg" width="100%"> </td> 
     <td> <a href="https://github.com/silentmuzinde/Data-Science-Portfolio/tree/main/ML_Projects/Loan_Eligibility_Model">
       <strong>Loan Eligibility Prediction Model</strong></a><br> This project predicts whether a loan applicant is eligible for a loan using a logistic regression model. It features a user-friendly web interface built with Streamlit.<br> 
       <strong>Technologies:</strong> Python, Streamlit, Scikit-learn, Pandas </td> </tr> 
