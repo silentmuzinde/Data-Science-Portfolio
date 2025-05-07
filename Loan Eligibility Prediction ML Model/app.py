@@ -1,10 +1,16 @@
 import streamlit as st
 import pandas as pd
 import pickle as pk
+import os
 
-# Load model and scaler
-model = pk.load(open('model.pkl', 'rb'))
-scaler = pk.load(open('scaler.pkl', 'rb'))
+# Load model and scaler safely
+if os.path.exists('model.pkl') and os.path.exists('scaler.pkl'):
+    model = pk.load(open('model.pkl', 'rb'))
+    scaler = pk.load(open('scaler.pkl', 'rb'))
+else:
+    st.error("❌ 'model.pkl' or 'scaler.pkl' not found. Please upload them via 'Manage app' > 'Files'.")
+    st.stop()
+
 
 # App Header
 st.header('Loan Eligibility Prediction Model')
