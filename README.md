@@ -28,3 +28,10 @@ Designed a maintenance performance tracker to log servicing schedules, monitor e
 Created an Excel-based reporting tool for analyzing fleet usage, trip frequency, hire costs, fuel consumption, and transport efficiency metrics.
 - **Technologies:** Microsoft Excel, Pivot Tables, Data Validation
 
+## Core Competencies
+
+- **Methodologies**: Machine Learning, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
+- **Languages**: Python (Pandas, NumPy, Scikit-Learn, SciPy, Matplotlib), SQL
+- **Tools**: Power BI, Tableau, MySQL, Git, Ms Azure Flask, MS Excel(Advanced), Prompt Engineering,  Large Language Models (LLMs) & LLM Integration, Langchain
+- **Programming and Others**: Java, Flutter, NodeJs, WebEngage, Power Platform (Power Apps, Power Automate), SharePoint, Microsoft 365, Dynamics 365, Model-Driven Apps, Oracle ERP, SIEM, IT Systems Administration, USSD Integration
+
