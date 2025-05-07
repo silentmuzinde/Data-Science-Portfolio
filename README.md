@@ -27,7 +27,10 @@ Check out my [Portfolio](https://github.com/silentmuzinde/Data-Science-Portfolio
 ### **Artificial Intelligence and Analytics Research Assistant**
 
 **Bindura University of Science Education** | *Feb 2024 – Jun 2024*
-Contributed to the development and implementation of AI strategies using prompt engineering and model evaluation techniques. Explored and tested generative AI tools for business and academic use cases, including summarization and content generation. Delivered workshops and created documentation promoting ethical AI practices. Produced prompt libraries and usage guidelines tailored for different organizational functions.
+-Contributed to the development and implementation of AI strategies using prompt engineering and model evaluation techniques. 
+- Explored and tested generative AI tools for business and academic use cases, including summarization and content generation.
+-  Delivered workshops and created documentation promoting ethical AI practices.
+-  Produced prompt libraries and usage guidelines tailored for different organizational functions.
 
 **Key Tools**: Prompt Engineering, LLMs (ChatGPT, Gemini), Python, Excel, AI Toolkits, Policy Documentation
 
@@ -36,7 +39,10 @@ Contributed to the development and implementation of AI strategies using prompt 
 ### **Systems Analyst**
 
 **Digital Row** | *Jan 2023 – Jan 2024*
-Supported IT infrastructure and delivered cross-platform system support for internal software solutions. Conducted full-cycle software testing (unit to UAT) and implemented issue tracking and optimization. Integrated WebEngage across Flutter apps for customer analytics and engagement. Delivered documentation and release notes, and contributed to multi-country software deployments for brands such as Dial-A-Delivery and Pizza Inn.
+- Supported IT infrastructure and delivered cross-platform system support for internal software solutions.
+- Conducted full-cycle software testing (unit to UAT) and implemented issue tracking and optimization.
+- Integrated WebEngage across Flutter apps for customer analytics and engagement.
+- Delivered documentation and release notes, and contributed to multi-country software deployments for brands such as Dial-A-Delivery and Pizza Inn.
 
 **Key Tools**: Flutter, WebEngage, Git, Testing Frameworks, API Documentation, Jira, SQL
 
@@ -45,6 +51,8 @@ Supported IT infrastructure and delivered cross-platform system support for inte
 ### **Systems Administration & Support Intern**
 
 **Ecocash Holdings** | *Aug 2020 – Oct 2021*
-Developed low-code solutions on Microsoft Power Platform for service desk automation and asset tracking. Supported Microsoft Dynamics 365 and Oracle ERP systems. Played a critical role in migrating on-premise email infrastructure to Microsoft 365. Automated change and problem management using Power Apps and SharePoint.
+- Developed low-code solutions on Microsoft Power Platform for service desk automation and asset tracking.
+- Supported Microsoft Dynamics 365 and Oracle ERP systems. Played a critical role in migrating on-premise email infrastructure to Microsoft 365.
+- Automated change and problem management using Power Apps and SharePoint.
 
 **Key Tools**: Power Platform (Power Apps, Power Automate), SharePoint, Microsoft 365, Dynamics 365, Model-Driven Apps, Oracle ERP
