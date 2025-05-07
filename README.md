@@ -32,8 +32,10 @@ Created an Excel-based reporting tool for analyzing fleet usage, trip frequency,
 - **Technologies:** Microsoft Excel, Pivot Tables, Data Validation
 
 ## Micro Projects
-- **[Genetic Algorithm](link_here)**: In this project, I implemented a simple genetic algorithm that finds a list of numbers which equal any specified number when summed together.
-  
+- **[Meals Flutter App](https://github.com/silentmuzinde/Meals_App)**:  In this Flutter Meals App project, I created an app that provides recipes for various meals based on categories like Italian, French,etc.
+- **[ M-Pesa Daraja USSD Integration (NodeJs)](https://github.com/silentmuzinde/mpesa_payment_integration)**:  In this project, I implemented M-Pesa payment integration to facilitate seamless transactions within an application.
+- **[PowerApps Inventory System](https://github.com/silentmuzinde/PowerAppsInventorySystem)**:In this project, I developed an inventory management system using PowerApps to streamline tracking and managing stock levels effectively.
+  ---
 ## Core Competencies
 
 - **🛠️ Methodologies**: Machine Learning, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
