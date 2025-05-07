@@ -32,10 +32,7 @@ Created an Excel-based reporting tool for analyzing fleet usage, trip frequency,
 - **Technologies:** Microsoft Excel, Pivot Tables, Data Validation
 
 ## Micro Projects
-
-### Statistics and Machine Learning
-
-- **[Genetic Algorithm] (Link here)**:  In this project, I implemented a simple genetic algorithm that finds a list of numbers which equal any specified number when summed together.
+- **[Genetic Algorithm](link_here)**: In this project, I implemented a simple genetic algorithm that finds a list of numbers which equal any specified number when summed together.
   
 ## Core Competencies
 
