@@ -12,12 +12,6 @@ Check out my [Portfolio](https://github.com/silentmuzinde/Data-Science-Portfolio
     
 ## Professional Experience
 
-Here’s a professionally revised and streamlined version of your **Professional Experience** section. It emphasizes **tools, technologies**, and **achievements**, while keeping things focused and impactful for your portfolio or résumé:
-
----
-
-## Professional Experience
-
 ### **Data Analyst – Projects and Operations**
 
 **Magaya Mining Pvt Limited** | *Jul 2024 – Present*
