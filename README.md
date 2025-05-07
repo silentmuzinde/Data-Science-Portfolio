@@ -7,7 +7,7 @@ Check out my [Portfolio](https://github.com/silentmuzinde/Data-Science-Portfolio
 ## Pinned Projects
 <table> 
   <tr> <td width="30%"> <img src="assets/loan_img.jpg" width="100%"> </td> <td> <a href="https://github.com/silentmuzinde/Data-Science-Portfolio/tree/main/ML_Projects/Loan_Eligibility_Model"><strong>Loan Eligibility Prediction Model</strong></a>
-    <br> A logistic regression model that predicts loan eligibility based on features like income, loan amount, credit history, employment status, and property area. It includes a simple, interactive Streamlit web interface for real-time predictions.
+    <br> A logistic regression model that predicts loan eligibility based on features like income, loan amount, credit history, employment status, and asset value, etc. It includes a simple, interactive Streamlit web interface for real-time predictions.
     <br><strong>Technologies:</strong> Python, Streamlit, Scikit-learn, Pandas </td> </tr> </table> 
     
 ## Professional Experience
