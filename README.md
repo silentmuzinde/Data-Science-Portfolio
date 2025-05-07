@@ -45,12 +45,13 @@ Created an Excel-based reporting tool for analyzing fleet usage, trip frequency,
 ---
 ## Training & Certifications
 
-- **[Microsoft Certified AI Engineer Associate](link_to_certificate)** - Microsoft
-- **[Microsoft Certified Azure Fundamentals](link_to_certificate)** - Microsoft
-- **[Microsoft Certified Power BI Associate](link_to_certificate)** - Data Camp
+- **[Microsoft Certified AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/silentMuzinde-9829/CBA04031D542EC07?sharingId)** - Microsoft
+- **[Microsoft Certified Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/silentMuzinde-9829/75C81476A28871A9?sharingId=E6C6FAC59833BDF1)** - Microsoft
+- **[Microsoft Certified Power BI Associate](https://www.datacamp.com/completed/statement-of-accomplishment/track/89c380f7dd44944d87b9dbdee3cdea914f05fc71)** - Data Camp
 - **[Microsoft Identity & Access Administrator](link_to_certificate)** - Microsoft
 - **[Huawei Certified Datacom](link_to_certificate)** - Huawei
 - **[Introduction to Cybersecurity](link_to_certificate)** - CISCO
+- **[Data Analysis in Excel](https://www.datacamp.com/completed/statement-of-accomplishment/track/89c380f7dd44944d87b9dbdee3cdea914f05fc71)** - Data Camp
 - **[IT Support Professional Certificate](link_to_certificate)**-  Coursera
      - Technical Support Fundamentals
      - The Bits and Bytes of Computer Networking
