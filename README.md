@@ -12,11 +12,11 @@ Check out my [Portfolio](https://github.com/silentmuzinde/Data-Science-Portfolio
     
 ## 💼 Workplace / Real World Projects
 
-### 1. **Projects Performance Tracker**
+### 1. **Projects Management Power BI Dashboard**
 Developed an interactive Power BI dashboard to monitor project progress, track milestone completion, and analyze budget utilization across multiple departments.
 - **Technologies:** Power BI, SQL, Excel
 
-### 2. **Inventory and Stock Management System**
+### 2. **Stores Stock Management Power BI**
 Built a stock management dashboard visualizing stock levels, reorder points, consumption trends, and warehouse movements—enhancing procurement decisions.
 - **Technologies:** Power BI, Excel, Data Modeling
 
@@ -25,6 +25,6 @@ Designed a maintenance performance tracker to log servicing schedules, monitor e
 - **Technologies:** Power BI, Excel, KPI Visualization
 
 ### 4. **Transport & Fleet Utilization Dashboard**
-Created an Excel-based reporting tool for analyzing fleet usage, trip frequency, fuel consumption, and transport efficiency metrics.
+Created an Excel-based reporting tool for analyzing fleet usage, trip frequency, hire costs, fuel consumption, and transport efficiency metrics.
 - **Technologies:** Microsoft Excel, Pivot Tables, Data Validation
 
