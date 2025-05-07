@@ -6,26 +6,21 @@ import pickle as pk
 model = pk.load(open('models/model.pkl', 'rb'))
 scaler = pk.load(open('models/scaler.pkl', 'rb'))
 
-# App Header or Title
+# App Header
 st.header('Loan Eligibility Prediction Model')
 
-# Input section inside a container
-with st.container():
-    st.subheader("Enter Applicant Details")
+# Input section
+st.subheader("Enter Applicant Details")
 
-    # Keep as slider
-    num_of_dep = st.slider('Choose Number of Dependents', 0, 10)
+num_of_dep = st.slider('Choose Number of Dependents', 0, 10)
+grad = st.selectbox('Choose Education', ['Graduated', 'Not Graduated'])
+self_emp = st.selectbox('Self Employed', ['Yes', 'No'])
 
-    # Dropdowns
-    grad = st.selectbox('Choose Education', ['Graduated', 'Not Graduated'])
-    self_emp = st.selectbox('Self Employed', ['Yes', 'No'])
-
-    # Number inputs for numerical data
-    annual_income = st.number_input('Enter Annual Income', min_value=0, step=1000)
-    loan_amt = st.number_input('Enter Loan Amount', min_value=0, step=1000)
-    loan_duration = st.slider('Select Loan Duration (Years)', 0, 20)
-    cibil_score = st.slider('Select CIBIL Score', 0,900)
-    assets = st.number_input('Enter Value of Assets', min_value=0, step=1000)
+annual_income = st.number_input('Enter Annual Income', min_value=0, step=1000)
+loan_amt = st.number_input('Enter Loan Amount', min_value=0, step=1000)
+loan_duration = st.slider('Select Loan Duration (Years)', 0, 20)
+cibil_score = st.slider('Select CIBIL Score', 0, 900)
+assets = st.number_input('Enter Value of Assets', min_value=0, step=1000)
 
 # Encode categorical features
 grad_s = 0 if grad == 'Graduated' else 1
