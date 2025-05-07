@@ -20,8 +20,8 @@ Developed an interactive Power BI dashboard to monitor project progress, track m
 Built a stock management dashboard visualizing stock levels, reorder points, consumption trends, and warehouse movements—enhancing procurement decisions.
 - **Technologies:** Power BI, Excel, Data Modeling
 
-### 3.📊 **Equipment Maintenance Dashboard**
-Designed a maintenance performance tracker to log servicing schedules, monitor equipment downtime, and evaluate repair efficiency.
+### 3.📊 **Plant Reliability & Maintenance Dashboard**
+Designed a maintenance performance tracker to log servicing schedules, monitor equipment downtime,plant availability, and evaluate repair efficiency.
 - **Technologies:** Power BI, Excel, KPI Visualization
 
 ### 4.📊 **Transport & Fleet Utilization Dashboard**
