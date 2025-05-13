@@ -15,7 +15,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
     <br> A logistic regression model that predicts loan eligibility based on features like income, loan amount, credit history, employment status, and asset value, etc. It includes a simple, interactive Streamlit web interface for real-time predictions.
     <br><strong>Technologies:</strong> Python, Streamlit, Scikit-learn, Pandas </td> </tr>
 
-<tr> <td width="30%">  <img src="assets/calories_img.jpg" width="100%" alt="Calories Burnt Prediction Model">   </td>
+<tr> <td width="30%">  <img src="Carlories-Burnt-Prediction-Model/carlories_img.jpg" width="100%">   </td>
   <td>  <a href="https://github.com/silentmuzinde/Data-Science-Portfolio/tree/main/Carlories-Burnt-Prediction-Model">
            <strong>Calories Burnt Prediction Model</strong> </a>
    <br> A machine learning model that predicts calories burnt based on features such as activity type, duration, intensity, and user metrics. This project utilizes a machine learning pipeline for efficient data processing and includes a FastAPI backend for real-time predictions. <br>
