@@ -89,7 +89,7 @@ Created an Excel-based reporting tool for analyzing fleet usage, trip frequency,
 
 - **[Microsoft Certified AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/silentMuzinde-9829/CBA04031D542EC07?sharingId)** - Microsoft
 - **[Microsoft Certified Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/silentMuzinde-9829/75C81476A28871A9?sharingId=E6C6FAC59833BDF1)** - Microsoft
-- **[Microsoft Certified Power BI Associate](https://www.datacamp.com/completed/statement-of-accomplishment/track/89c380f7dd44944d87b9dbdee3cdea914f05fc71)** - Data Camp
+- **[Microsoft Certified Power BI Associate](https://www.datacamp.com/completed/statement-of-accomplishment/track/89c380f7dd44944d87b9dbdee3cdea914f05fc71)** - Microsoft
 - **[Microsoft Identity & Access Administrator](link_to_certificate)** - Microsoft
 - **[Huawei Certified Datacom](link_to_certificate)** - Huawei
 - **[Introduction to Cybersecurity](link_to_certificate)** - CISCO
