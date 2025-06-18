@@ -1,0 +1,37 @@
+**Key Skills and Qualifications:**
+
+1. Data Analysis and Visualization: Power BI, Excel, Tableau, SPSS, Python (Pandas, NumPy, Matplotlib)
+2. Machine Learning and AI: Scikit-learn, Streamlit, Flask, FastAPI, LLMs, Prompt Engineering
+3. Programming and Databases: Python, SQL, Postgres, Microsoft Access, Flutter, Java
+4. Cloud and IT Tools: Microsoft Azure, Power Apps, Power Platform, Firebase, Active Directory, Microsoft 365
+5. Systems and Security: API Integration, Git, SIEM, IAM, Windows and Linux Server, Systems Troubleshooting
+6. Certifications: Microsoft Certified Power BI Data Analyst Associate, AI Engineer Associate, Identity and Access Associate, Azure Fundamentals, Huawei Certified HCIA Datacom, CISCO Introduction to Cybersecurity, Data Camp Data Analysis in Excel, Google IT Support Professional Certificate
+
+**Overall Strengths:**
+
+1. **Diverse Technical Skills**: The candidate has a wide range of technical skills, including data analysis, machine learning, programming, and cloud computing.
+2. **Practical Experience**: The candidate has hands-on experience in various industries, including mining, telecommunications, software, and education.
+3. **Certifications and Awards**: The candidate has obtained several certifications and awards, demonstrating their expertise and commitment to their field.
+4. **Strong Educational Background**: The candidate has a strong educational background, with a Bachelor of Business Studies and Computing Science degree and several advanced level and ordinary level subjects.
+
+**Overall Weaknesses:**
+
+1. **Lack of Depth in Certain Areas**: While the candidate has a broad range of technical skills, they may lack depth in certain areas, such as specialized machine learning or cloud computing.
+2. **Limited Leadership Experience**: The candidate's experience is mostly focused on individual contributions, with limited leadership or management experience.
+3. **Geographic Location**: The candidate's location in Zimbabwe may limit their access to certain job opportunities or industries.
+
+**Suggestions for Improvement:**
+
+1. **Develop Specialized Skills**: Focus on developing deeper skills in specific areas, such as machine learning, cloud computing, or cybersecurity.
+2. **Gain Leadership Experience**: Seek out opportunities to lead projects or teams, either in a professional or volunteer setting.
+3. **Expand Professional Network**: Attend industry conferences, join online communities, and connect with professionals in your field to expand your network and access new opportunities.
+4. **Consider International Opportunities**: Explore job opportunities or graduate programs in other countries to gain international experience and broaden your perspectives.
+5. **Highlight Soft Skills**: Emphasize your soft skills, such as communication, teamwork, and problem-solving, to demonstrate your ability to work effectively in a team and adapt to new situations.
+
+**CV Improvement Suggestions:**
+
+1. **Use a Clear and Concise Format**: Use a clean and easy-to-read format, with clear headings and bullet points to highlight your skills and experience.
+2. **Tailor Your CV to the Job**: Customize your CV to match the requirements of the job you're applying for, highlighting the skills and experience that are most relevant.
+3. **Use Action Verbs and Quantifiable Results**: Use action verbs and quantifiable results to describe your achievements, such as "Improved data analysis efficiency by 30% through the use of Power BI" or "Developed and deployed a machine learning model that increased sales by 25%."
+4. **Include Relevant Projects and Volunteer Work**: Include relevant projects and volunteer work to demonstrate your skills and experience, and to show your passion for your field.
+5. **Proofread and Edit**: Carefully proofread and edit your CV to ensure that it is free of errors and easy to read.
