@@ -11,7 +11,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
 <table> 
   <tr> 
     <td width="30%"> 
-      <img src="assets/loan_img.jpg" width="180px" height="150px"> 
+      <img src="assets/loan_img.jpg" width="210px" height="150px"> 
     </td> 
     <td> 
       <a href="https://github.com/silentmuzinde/Data-Science-Portfolio/tree/main/Loan-Eligibility-Prediction"><strong>Loan Eligibility Prediction Model</strong></a><br> 
