@@ -10,7 +10,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
 ## 🚀 Pinned Projects
 <table> 
   <tr> 
-    <td width="30%"> 
+    <td width="25%"> 
       <img src="assets/loan_img.jpg" width="240px" height="150px"> 
     </td> 
     <td> 
