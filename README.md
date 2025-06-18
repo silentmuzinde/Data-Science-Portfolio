@@ -11,7 +11,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
 <table> 
   <tr> 
     <td width="30%"> 
-      <img src="assets/loan_img.jpg" width="100%" height="180px"> 
+      <img src="assets/loan_img.jpg" width="100%" height="150px"> 
     </td> 
     <td> 
       <a href="https://github.com/silentmuzinde/Data-Science-Portfolio/tree/main/Loan-Eligibility-Prediction"><strong>Loan Eligibility Prediction Model</strong></a><br> 
@@ -22,7 +22,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
 
   <tr> 
     <td width="30%">  
-      <img src="Carlories-Burnt-Prediction-Model/carlories_img.jpg" width="100%" height="180px">   
+      <img src="Carlories-Burnt-Prediction-Model/carlories_img.jpg" width="100%" height="150px">   
     </td>
     <td>  
       <a href="https://github.com/silentmuzinde/Data-Science-Portfolio/tree/main/Carlories-Burnt-Prediction-Model"><strong>Calories Burnt Prediction Model</strong></a><br> 
@@ -33,7 +33,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
 
   <tr> 
     <td width="30%"> 
-      <img src="assets/MCQ.png" width="100%" height="180px"> 
+      <img src="assets/MCQ.png" width="100%" height="150px"> 
     </td> 
     <td> 
       <a href="https://github.com/silentmuzinde/Data-Science-Portfolio/tree/main/AI-MCQ-Generator"><strong>AI MCQ Generator</strong></a><br> 
@@ -44,7 +44,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
 
   <tr> 
     <td width="30%"> 
-      <img src="assets/Resume_Analyser.jpg" width="100%" height="180px"> 
+      <img src="assets/Resume_Analyser.jpg" width="100%" height="150px"> 
     </td> 
     <td> 
       <a href="https://github.com/silentmuzinde/Data-Science-Portfolio/tree/main/AI-Resume-Analyser"><strong>AI Resume Analyser</strong></a><br> 
