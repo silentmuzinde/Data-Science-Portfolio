@@ -21,7 +21,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 
   <tr> 
-    <td width="30%">  
+    <td width="25%">  
       <img src="Carlories-Burnt-Prediction-Model/carlories_img.jpg" width="240px" height="150px">   
     </td>
     <td>  
@@ -32,7 +32,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr>
 
   <tr> 
-    <td width="30%"> 
+    <td width="25%"> 
       <img src="assets/MCQ.png" width="240px" height="150px"> 
     </td> 
     <td> 
@@ -43,7 +43,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
   </tr> 
 
   <tr> 
-    <td width="30%"> 
+    <td width="25%"> 
       <img src="assets/Resume_Analyser.jpg" width="240px" height="150px"> 
     </td> 
     <td> 
