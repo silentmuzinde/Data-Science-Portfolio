@@ -37,7 +37,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
     </td> 
     <td> 
       <a href="https://github.com/silentmuzinde/Data-Science-Portfolio/tree/main/AI-MCQ-Generator"><strong>AI MCQ Generator</strong></a><br> 
-      An AI-Based MCQ Generator Tool that generates multiple-choice questions (MCQs) from uploaded content such as PDF, DOCX, or TXT files. It leverages LLaMA-3 via LangChain and the Groq API to understand the content and craft relevant questions and answer options. The tool includes a simple web interface and supports exporting the generated questions to PDF. 
+      An AI-Based MCQ Generator Tool that generates multiple-choice questions (MCQs) from uploaded content such as PDF, DOCX, or TXT files. It leverages LLaMA-3 via LangChain and the Groq API to understand the content and craft relevant questions and answer options, with options to export questions to pdf or txt file.
       <br><strong>Technologies:</strong> Python, Flask, LangChain, Groq API, Prompt Engineering 
     </td> 
   </tr> 
